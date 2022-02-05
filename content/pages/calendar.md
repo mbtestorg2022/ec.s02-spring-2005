@@ -4,32 +4,357 @@ title: Calendar
 uid: fd59fed0-d770-d2a2-68c6-6bf40424e903
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Course, Design, and Disabilities Overview | &nbsp; |
-| 2 | Water Jet Demo, Intro to OMAX® software | Assignment 1 due - Design Notebook |
-| 3 | Concept Development Overview | &nbsp; |
-| 4 | Field Trip to The Protestant Guild Learning Center: Information Gathering | Assignment 2 due - Snowflake |
-| 5 | Reflection, Brainstorming |  {{< br >}}{{< br >}} Assignment 3 due - Information Gathering, Defining the Problem {{< br >}}{{< br >}} PSDS presentation -The Best of Last Year {{< br >}}{{< br >}}  |
-| 6 | Brainstorming, Water Jet Lab | Assignment 4 due - Brainstorming |
-| 7 | Concept Development | Assignment 5 due - Prototype Design |
-| 8 | Prototyping, Testing, and Redesign | &nbsp; |
-| 9 | Prototyping, Testing, and Redesign (cont.) | &nbsp; |
-| 10 | Prototyping, Testing, and Redesign (cont.) | Assignment 6 due - Testing and Improvement |
-| 11 | Production (and Product Delivery) | &nbsp; |
-| 12 | Reflection, Brainstorming | Assignment 7 due - OMAX® Tabs |
-| 13 | Concept Development | &nbsp; |
-| 14 | Prototyping, Testing, and Redesign (cont.) | &nbsp; |
-| 15 | Prototyping, Testing, and Redesign (cont.) | &nbsp; |
-| 16 | Prototyping, Testing, and Redesign (cont.) | &nbsp; |
-| 17 | Testing and Refinement | &nbsp; |
-| 18 | Discussion and Documentation | &nbsp; |
-| 19 | Discussion and Documentation (cont.) |  {{< br >}}{{< br >}} Assignment 8 due - Documentation I {{< br >}}{{< br >}} PSDS presentation - Optics and Vision {{< br >}}{{< br >}}  |
-| 20 | Production | &nbsp; |
-| 21 | Testing and Refinement (cont.) | Assignment 9 due - Documentation II |
-| 22 | Testing and Refinement (cont.) | &nbsp; |
-| 23 | Production | &nbsp; |
-| 24 | Field Trip to the Protestant Guild Learning Center: Product Delivery and Evaluation | Final draft paper due |
-| 25 | Practice Presentation | PSDS Meeting - Final Presentations |
-| 26 | Assessment and Wrap Up | Assignment 10 due - Final Evaluation |
-| 27 | Extra Water Jet Time |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course, Design, and Disabilities Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Water Jet Demo, Intro to OMAX® software
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due - Design Notebook
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Concept Development Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to The Protestant Guild Learning Center: Information Gathering
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due - Snowflake
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection, Brainstorming
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 3 due - Information Gathering, Defining the Problem
+
+PSDS presentation -The Best of Last Year
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Brainstorming, Water Jet Lab
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due - Brainstorming
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Concept Development
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due - Prototype Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Prototyping, Testing, and Redesign
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Prototyping, Testing, and Redesign (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Prototyping, Testing, and Redesign (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 due - Testing and Improvement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Production (and Product Delivery)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection, Brainstorming
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 due - OMAX® Tabs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Concept Development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Prototyping, Testing, and Redesign (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Prototyping, Testing, and Redesign (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Prototyping, Testing, and Redesign (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Testing and Refinement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion and Documentation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion and Documentation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 8 due - Documentation I
+
+PSDS presentation - Optics and Vision
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Production
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Testing and Refinement (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 due - Documentation II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Testing and Refinement (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Production
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to the Protestant Guild Learning Center: Product Delivery and Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+Final draft paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Practice Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+PSDS Meeting - Final Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Assessment and Wrap Up
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 due - Final Evaluation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Extra Water Jet Time
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
